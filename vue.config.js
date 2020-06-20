@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === 'production' ? '/myresume/' : './',
+    publicPath: process.env.NODE_ENV === 'production' ? '/MyResume/dist/' : './',
     productionSourceMap: false,
 }
