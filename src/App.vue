@@ -5,7 +5,7 @@
       <div class="content-left">
         <div class="head-img">
           <div class="img-box">
-            <img src="./assets/images/clipboard.png" alt="头像" />
+            <img src="https://ae01.alicdn.com/kf/He52f32df74b242a39fc78d1ee4e37363b.jpg" alt="头像" />
           </div>
         </div>
         <div class="head-info">
