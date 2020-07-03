@@ -49,6 +49,7 @@ export default {
     // 显示右边导航注释
     showMenuInfo(index) {
       let el = this.$(".menu-hover").eq(index);
+      // index === 1 ? el.css({ opacity: 1, left: '-84px' }) : el.css({ opacity: 1, left: '-70px' });
       el.css({ opacity: 1, left: '-70px' });
     },
     // 隐藏右边导航注释

@@ -43,7 +43,7 @@ export default {
   },
   data() {
     return {
-      menuHoverInfoAll: ["首页", "组件", "作品", "其它信息"],
+      menuHoverInfoAll: ["首页", "插件", "项目经验", "个人信息"],
       curPathIndex: 0, // 当前路由索引
       isSelectMenuArr: [true, false, false, false],
       randomDirection: 1 // 动画随机方向
@@ -163,7 +163,7 @@ body {
       position: relative;
       display: flex;
       align-items: center;
-      width: 70%;
+      width: 75%;
       height: 80%;
       background: linear-gradient(#21e1ae, #09aeea);
       border-radius: 32px;

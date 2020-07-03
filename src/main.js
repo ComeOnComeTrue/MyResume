@@ -4,8 +4,8 @@ import router from './router'
 import store from './store'
 import $ from 'jquery'
 
-import "./assets/reset.css" // 初始化css
-import "./assets/font.css" // iconfont 图标
+import "@/assets/reset.css" // 初始化css
+import "@/assets/font.css" // iconfont 图标
 import "velocity-animate" // 动画插件
 
 // import ElementUI from 'element-ui';
